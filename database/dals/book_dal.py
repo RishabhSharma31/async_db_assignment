@@ -1,3 +1,5 @@
+#This is creation of new entities using the Data Access Layer(DAL)
+
 from typing import List, Optional
 
 from sqlalchemy import update
